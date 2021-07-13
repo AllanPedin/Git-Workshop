@@ -28,3 +28,10 @@ If you try to push and code gets rejected due to (non-fast-forward) that means s
 ```
 git pull
 ```
+# Solving merge conflicts
+If two developers have made changes to the same file, who ever pushes their changes last gets to decide the final state of the code.
+
+Current changes -> the changes you commited
+Incoming Changes -> the changes someone else commited
+
+![Solving merge conflicts in vscode image](http://url/to/img.png)
