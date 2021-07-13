@@ -34,4 +34,4 @@ If two developers have made changes to the same file, who ever pushes their chan
 Current changes -> the changes you commited
 Incoming Changes -> the changes someone else commited
 
-![Solving merge conflicts in vscode image](http://url/to/img.png)
+![Solving merge conflicts in vscode image](https://github.com/AllanPedin/Git-Workshop/blob/main/solving_merge_conflicts.png)
