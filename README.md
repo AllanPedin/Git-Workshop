@@ -2,5 +2,5 @@
 
 # Cloning a repo
 ```
-git clone 
+git clone <repo uri>
 ```
