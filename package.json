@@ -1,0 +1,19 @@
+{
+  "name": "git-workshop",
+  "version": "1.0.0",
+  "description": "```\r git clone <repo uri>\r ```\r # Make some changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllanPedin/Git-Workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllanPedin/Git-Workshop/issues"
+  },
+  "homepage": "https://github.com/AllanPedin/Git-Workshop#readme"
+}
