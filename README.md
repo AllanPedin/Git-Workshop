@@ -65,3 +65,19 @@ Checkout my branch
 ```
 git checkout AllansFeatureBranch
 ```
+
+Go back to the main branch
+```
+git checkout main
+```
+
+Make your own branch
+```
+git checkout -b <your branch name>
+```
+make some changes and push it to the remote repository
+```
+git add .
+git commit -m "made some changes on my new branch"
+git push
+```
