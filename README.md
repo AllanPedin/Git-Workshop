@@ -2,9 +2,9 @@
 This is a workshop intended to help people understand git with respect to working on a project with multiple collaborators
 
 # Pre-Reqs
-    Download:
-     - [Git](https://git-scm.com/downloads)
-     - [VSCode](https://code.visualstudio.com/download)
+Download:
+- [Git](https://git-scm.com/downloads)
+- [VSCode](https://code.visualstudio.com/download)
 # Cloning a repo
 Cloning is just downloading your code from a remote repository
 ```
