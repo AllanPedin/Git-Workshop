@@ -94,3 +94,4 @@ git add .
 git commit -m "made some changes on my new branch"
 git push
 ```
+# Submit a pull request
