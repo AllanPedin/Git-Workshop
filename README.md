@@ -1,6 +1,12 @@
 # Git-Workshop
 This is a workshop intended to help people understand git with respect to working on a project with multiple collaborators
+
+# Pre-Reqs
+    Download:
+     - [Git](https://git-scm.com/downloads)
+     - [VSCode](https://code.visualstudio.com/download)
 # Cloning a repo
+Cloning is just downloading your code from a remote repository
 ```
 git clone <repo uri>
 ```
@@ -9,15 +15,19 @@ git clone <repo uri>
 console.log("Hello <Your name>!")
 ```
 # Stage your changes
+Staging is a way of picking which files you would like to be in your next commit(save)
+
+for our purposes we will want to commit everything we changed so we use:
 ```
 git add .
 ```
 # Commit your changes
+Commit is like making a save file, youll always be able to go back and look at your old commits
+
 ```
 git commit -m "Added Hello World"
 ```
-Commit is like making a save file, youll always be able to go back and look at your old commits
-# Push your commit
+# Push your commits
 ```
 git push
 ```
@@ -25,6 +35,7 @@ Push takes your local commits and pushes them to a remote repository. Just like 
 ### Pushing may fail
 If you try to push and code gets rejected due to (non-fast-forward) that means someone else has pushed their commits before you did. In order to fix this you must retrieve their code from the remote repository and merge it with your code.
 # Pulling others commits
+Pulling is just updating your code with any new code that may or may not exist in the remote repository
 ```
 git pull
 ```
