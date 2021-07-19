@@ -5,6 +5,8 @@ This is a workshop intended to help people understand git with respect to workin
 Download:
 - [Git](https://git-scm.com/downloads)
 - [VSCode](https://code.visualstudio.com/download)
+
+Sign up for [Github](https://github.com/)
 # Cloning a repo
 Cloning is just downloading your code from a remote repository
 ```
