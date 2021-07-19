@@ -1,2 +1,5 @@
-console.log("Hello World!")
-console.log("Bye world!")
+console.log("Hello World")
+function dosomegnagnasgva
+Geag aerng ads'oig na
+g anrfg 'asdng
+argbasd'g n'
